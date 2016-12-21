@@ -1,1 +1,30 @@
-这是哪个傻逼写的文档？不愿意好好写就TM别写。你写这个杰宝文档，乱七八糟，不会截图么？不会写细致么？rdap war 用源码编译的步骤，文档跟代码根本对不上，你让测试的怎么用。你个傻逼。
+cmd for building project 
+
+package -Dmaven.test.skip=true
+
+takes a loooooooooooooooooooooooong time,stupid docs author.
+ 
+and,where is 'web-app'?
+ 
+in the package,only:
+
+doc
+pom.xml
+rdap-client
+rdap-common
+rdap-proxy43
+rdap-service
+README.md
+
+so,how to run the build cmd?
+
+https://github.com/cnnic/rdap
+
+Get RDAP war file.
+There are two methods to get RDAP war file:
+You can Get war file builded by JDK7.
+Or Build war file from source
+
+are you kidding me?
+
+
